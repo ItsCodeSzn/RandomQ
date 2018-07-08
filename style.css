@@ -1,0 +1,40 @@
+body {
+  background-color: #5596e6;
+}
+.main {
+  top: 5em;
+  overflow: hidden;
+  position: relative;
+  margin: 0 auto;
+  width: 50%;
+  max-width: 50%;
+  font-size: 1.2em;
+  font-family: sans-serif;
+  height: 25%;
+  background-color: white;
+}
+
+#text {
+  text-align: center;
+  margin: 1em;
+}
+
+#author {
+  text-align: right;
+  margin: 1em;
+}
+
+
+button {
+  float: right;
+  border: none;
+  margin: 1em;
+  background-color: #5596e6;
+}
+
+a {
+  text-decoration: none;
+}
+
+
+
